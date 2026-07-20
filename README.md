@@ -3013,4 +3013,11 @@ Contribution: 2026-07-12 20:07
 Contribution: 2026-07-12 20:08
 
 Contribution: 2026-07-12 20:09
+## Copyright
+
+© 2026 Anjali Verma. All Rights Reserved.
+
+This repository is shared for portfolio and educational viewing only.
+
+No permission is granted to copy, modify, redistribute, or use any part of this source code without my prior written permission.
 
